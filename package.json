@@ -1,5 +1,5 @@
 {
-  "name": "hashList",
+  "name": "hash-list",
   "version": "0.0.1",
   "description": "A HashList stores data in both an array and a dictionary/hash-map",
   "main": ".dist/index.js",
