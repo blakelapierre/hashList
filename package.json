@@ -2,7 +2,7 @@
   "name": "hashList",
   "version": "0.0.1",
   "description": "A HashList stores data in both an array and a dictionary/hash-map",
-  "main": "index.js",
+  "main": ".dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,7 +19,7 @@
     "data",
     "structure"
   ],
-  "author": "Blake La Pierre",
+  "author": "Blake La Pierre <blakelapierre@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/blakelapierre/hashList/issues"
